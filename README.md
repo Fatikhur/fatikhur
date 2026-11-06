@@ -9,7 +9,6 @@
 - 📍 Based in **Brebes, Central Java, Indonesia**.
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)
-- ⚡ Fun fact: **"Did you try turning it off and on again?" 😃**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -20,26 +19,7 @@
 </div>
   
 <div align="center">
-  <img width="48%" src="https://gh-readme-profile.vercel.app/api?username=Fatikhur&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41"/>
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Fatikhur&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41"/>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="33%">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fatikhur&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
-</td>
-
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fatikhur&theme=transparent" />
-</td>
-
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fatikhur&theme=transparent&utc_offset=7" />
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Fatikhur&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41" alt="GitHub Streak" />
 </div>
 
 <div align="center">
