@@ -10,9 +10,14 @@
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)
 
+<br/>
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Fatikhur&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 <div align="center">
 
