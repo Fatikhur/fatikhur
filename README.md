@@ -1,5 +1,3 @@
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 > **👨‍💻 About Me** <img height="40" alt="Fatikhur Rizki" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **[Fatikhur Rizki Nur Alfahrezi](https://www.linkedin.com/in/fatikhur-rizki)**
@@ -12,8 +10,6 @@
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)
 - ⚡ Fun fact: **"Did you try turning it off and on again?" 😃**
-
-<br clear="both"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
