@@ -1,20 +1,19 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-> **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+> **👨‍💻 About Me** <img height="40" alt="Fatikhur Rizki" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-- 🔭 I’m **[mwakidenis](https://mitrokit-ventures-me.vercel.app/)**
-- 🐛 A passionate **Full-Stack Developer** and **Cloud Expert** with **over 3 years of experience** in building scalable web applications and digital solutions. My journey started with a curiosity for how things work, and it has evolved into a career dedicated to creating impactful technology.
-- 🔭Currently working on a **👉[template](https://v3-portfolio-website-2026.pages.dev/)**  
-- 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
-- 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
-- 🌱 I’m currently specializing in **Fullstack JS, Next.js, React and Prompt AI** 
-- 🏬 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
+- 🔭 I’m **[Fatikhur Rizki Nur Alfahrezi](https://www.linkedin.com/in/fatikhur-rizki)**
+- 🎓 Informatics Graduate from **Universitas Peradaban** with a strong focus on **IT Infrastructure**, **Network Administration**, and **IT Support**.
+- 💼 Former **IT Support Intern** at **CV Saung IT Bumiayu** & **Universitas Muhammadiyah Purwokerto (UMP)**.
+- 🛡️ Certified in **Certified Network Defender (CND)** & **Certified Incident Handler (ECIH)** by **EC-Council**.
+- 🌐 Certified in **Cyber Blue Team (SOC Metrodata)**, **Google IT Support**, & **Junior Network Administrator (PNC)**.
+- 🌱 Currently exploring and developing with **Laravel, Python, Linux & Network Security**.
+- 📍 Based in **Brebes, Central Java, Indonesia**.
 - 📫 How to reach me:  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)<br>
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://d27715920@gmail.com) <br>
-![WARNING](https://img.shields.io/badge/🚫_NO_FREE_ADVISORY-red?style=flat)<br>
-- Thank you for your interest. **I do not provide free consultations** and support services are offered starting $5.
-- 👯 I’m currently maintaining some of the most **exciting open-source projects**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)<br>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatikhuralfa@gmail.com)<br>
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6289685517612)<br>
+- ⚡ Fun fact: **"Did you try turning it off and on again?" 😃**
 
 <br clear="both"/>
 
@@ -24,7 +23,7 @@
     📊 Profile Stats
     <img
       height="40"
-      alt="Mwaki Denis"
+      alt="Fatikhur Rizki"
       src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
     />
   </h2>
@@ -38,13 +37,13 @@
     </tr>
     <tr>
       <td>
-        <img src="https://komarev.com/ghpvc/?username=mwakidenis&style=flat-square" />
+        <img src="https://komarev.com/ghpvc/?username=Fatikhur&style=flat-square" />
       </td>
       <td>
-        <img src="https://img.shields.io/github/followers/mwakidenis?style=social" />
+        <img src="https://img.shields.io/github/followers/Fatikhur?style=social" />
       </td>
       <td>
-        <img src="https://img.shields.io/github/stars/mwakidenis?style=social" />
+        <img src="https://img.shields.io/github/stars/Fatikhur?style=social" />
       </td>
       <td>
         <img src="https://awesome.re/badge.svg" />
@@ -52,38 +51,36 @@
     </tr>
   </table>
 
-[![committers.top](https://user-badge.committers.top/kenya_public/mwakidenis.svg)](https://user-badge.committers.top/kenya_public/mwakidenis)
-
-[![Top Committer](https://api.star-history.com/badge?user=mwakidenis&year=2026)](https://www.star-history.com/mwakidenis)
+[![committers.top](https://user-badge.committers.top/indonesia_public/Fatikhur.svg)](https://user-badge.committers.top/indonesia_public/Fatikhur)
   
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;IT+Support+Specialist;Network+Administrator;Cyber+Security+Enthusiast;Informatics+Graduate+(S.Kom);Tech+Enthusiast"
     />
   </a>
 </div>
   
 <div align="center">
-  <img width="48%" src="https://gh-readme-profile.vercel.app/api?username=mwakidenis&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41"/>
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mwakidenis&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41"/>
+  <img width="48%" src="https://gh-readme-profile.vercel.app/api?username=Fatikhur&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Fatikhur&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
 <td width="33%">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mwakidenis&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fatikhur&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 </td>
 
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwakidenis&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fatikhur&theme=transparent" />
 </td>
 
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwakidenis&theme=transparent&utc_offset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fatikhur&theme=transparent&utc_offset=7" />
 </td>
 </tr>
 </table>
@@ -91,29 +88,28 @@
 
 <div align="center">
 
-### 📫 **Connect with Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### 📫 **Connect with Me** <img height="40" alt="Fatikhur Rizki" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Apro5550)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mwakidenis)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mwakidenis/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/l/6lp1kJRRR)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@denicemwaki?si=rewYQiy379ztYPVN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fatikhur)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatikhuralfa@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289685517612)
 
 ---
 # My Code Kingdom 😂
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fatikhur/fatikhur/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fatikhur/fatikhur/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Fatikhur/fatikhur/output/github-snake.svg" />
 </picture>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Mwaki+Denis+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+Mpesa+Hotspot+Billing+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Fatikhur+Rizki+Nur+Alfahrezi+💻;Informatics+Graduate+🎓;IT+Support+%26+Network+Admin+🚀;Cyber+Security+Enthusiast+🛡️;Problem+Solver+on+a+Mission+🌟;" />
 </p>
 
-[![Mwaki's gitartwork](gitartwork.svg)](https://github.com/mwakidenis)
+[![Fatikhur's gitartwork](gitartwork.svg)](https://github.com/Fatikhur)
 
 </div>

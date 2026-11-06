@@ -33,8 +33,8 @@ jobs:
           fi
 
           # Configure Git identity
-          git config user.name "mwakidenis"
-          git config user.email "mwakidenice@gmail.com"
+          git config user.name "Fatikhur"
+          git config user.email "fatikhuralfa@gmail.com"
 
           # Stage changes
           git add README.md
