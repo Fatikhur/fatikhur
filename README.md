@@ -11,14 +11,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;IT+Support+Specialist;Network+Administrator;Cyber+Security+Enthusiast;Informatics+Graduate+(S.Kom);Tech+Enthusiast"
-    />
-  </a>
-</div>
-  
-<div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Fatikhur&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41" alt="GitHub Streak" />
 </div>
 
