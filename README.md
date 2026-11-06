@@ -6,9 +6,6 @@
 - 🛡️ Certified in **Certified Network Defender (CND)** & **Certified Incident Handler (ECIH)** by **EC-Council**.
 - 🌐 Certified in **Cyber Blue Team (SOC Metrodata)**, **Google IT Support**, & **Junior Network Administrator (PNC)**.
 - 🌱 Currently exploring and developing with **Laravel, Python, Linux & Network Security**.
-- 📍 Based in **Brebes, Central Java, Indonesia**.
-- 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)
 
 <br/>
 <br/>
