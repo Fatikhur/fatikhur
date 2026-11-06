@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="header.svg" width="100%" alt="Welcome to Fatikhur's Profile" />
+</div>
+
+<br/>
+
 > **👨‍💻 About Me** <img height="40" alt="Fatikhur Rizki" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **[Fatikhur Rizki Nur Alfahrezi](https://www.linkedin.com/in/fatikhur-rizki)**
