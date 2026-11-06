@@ -16,44 +16,6 @@
 <br clear="both"/>
 
 <div align="center">
-
-  <h2>
-    📊 Profile Stats
-    <img
-      height="40"
-      alt="Fatikhur Rizki"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-  </h2>
-
-  <table align="center">
-    <tr>
-      <td><b>👀 Views</b></td>
-      <td><b>👤 Followers</b></td>
-      <td><b>🌟 Stars</b></td>
-      <td><b>✅ Awesome</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=Fatikhur&style=flat-square" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/followers/Fatikhur?style=social" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/stars/Fatikhur?style=social" />
-      </td>
-      <td>
-        <img src="https://awesome.re/badge.svg" />
-      </td>
-    </tr>
-  </table>
-
-[![committers.top](https://user-badge.committers.top/indonesia_public/Fatikhur.svg)](https://user-badge.committers.top/indonesia_public/Fatikhur)
-  
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;IT+Support+Specialist;Network+Administrator;Cyber+Security+Enthusiast;Informatics+Graduate+(S.Kom);Tech+Enthusiast"
@@ -89,22 +51,5 @@
 ### 📫 **Connect with Me** <img height="40" alt="Fatikhur Rizki" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)
-
----
-# My Code Kingdom 😂
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fatikhur/fatikhur/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fatikhur/fatikhur/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Fatikhur/fatikhur/output/github-snake.svg" />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Fatikhur+Rizki+Nur+Alfahrezi+💻;Informatics+Graduate+🎓;IT+Support+%26+Network+Admin+🚀;Cyber+Security+Enthusiast+🛡️;Problem+Solver+on+a+Mission+🌟;" />
-</p>
-
-[![Fatikhur's gitartwork](gitartwork.svg)](https://github.com/Fatikhur)
 
 </div>
