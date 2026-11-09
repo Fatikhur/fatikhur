@@ -4,7 +4,7 @@
 
 <br/>
 
-> **👨‍💻 About Me** <img height="40" alt="Fatikhur Rizki" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+> **👨‍💻 About Me**
 
 - 🔭 I’m **[Fatikhur Rizki Nur Alfahrezi](https://www.linkedin.com/in/fatikhur-rizki)**
 - 🎓 Informatics Graduate from **Universitas Peradaban** with a strong focus on **IT Infrastructure**, **Network Administration**, and **IT Support**.
@@ -17,6 +17,8 @@
 <br/>
 
 <div align="center">
+  <img src="cat-chase.gif" width="495" alt="Cats Chasing Animation" />
+  <br/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Fatikhur&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41" alt="GitHub Streak" />
 </div>
 
@@ -24,7 +26,7 @@
 
 <div align="center">
 
-### 📫 **Connect with Me** <img height="40" alt="Fatikhur Rizki" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### 📫 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatikhur-rizki)
 
