@@ -6,9 +6,9 @@
 
 > **👨‍💻 About Me**
 
-- 🔭 I’m **[Fatikhur Rizki Nur Alfahrezi](https://www.linkedin.com/in/fatikhur-rizki)**
+- 🔭 Hi I’m **[Fatikhur Rizki Nur Alfahrezi](https://www.linkedin.com/in/fatikhur-rizki)**
 - 🎓 Informatics Graduate from **Universitas Peradaban** with a strong focus on **IT Infrastructure**, **Network Administration**, and **IT Support**.
-- IT Support at **Erhanesia Digima Mukitama (Erdigma)** - present
+- 🏢 IT Support at **Erhanesia Digima Mukitama (Erdigma)** - present
 - 💼 Former **IT Support Intern** at **CV Saung IT Bumiayu** & **Universitas Muhammadiyah Purwokerto (UMP)**.
 - 🛡️ Certified in **Certified Network Defender (CND)** & **Certified Incident Handler (ECIH)** by **EC-Council**.
 - 🌐 Certified in **Cyber Blue Team (SOC Metrodata)**, **Google IT Support**, & **Junior Network Administrator (PNC)**.
