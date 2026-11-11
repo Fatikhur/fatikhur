@@ -11,7 +11,7 @@
 - 🏢 IT Support at **Erhanesia Digima Mukitama (Erdigma)** - present
 - 💼 Former **IT Support Intern** at **CV Saung IT Bumiayu** & **Universitas Muhammadiyah Purwokerto (UMP)**.
 - 🛡️ Certified in **Certified Network Defender (CND)** & **Certified Incident Handler (ECIH)** by **EC-Council**.
-- 🌐 Certified in **Cyber Blue Team (SOC Metrodata)**, **Google IT Support**, & **Junior Network Administrator (PNC)**.
+- 🌐 Certified in **Cyber Blue Team (SOC Metrodata)**, **Data & Software Engineer** RevoU, **Google IT Support**, & **Junior Network Administrator (PNC)**.
 - 🌱 Currently exploring and developing with **Laravel, Python, Linux & Network Security**.
 
 <br/>
