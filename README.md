@@ -6,7 +6,7 @@
 
 > **👨‍💻 About Me**
 
-- 🔭 Hello I’m **[Fatikhur Rizki Nur Alfahrezi](https://www.linkedin.com/in/fatikhur-rizki)**
+- 🔭 Hi there ! I’m **[Fatikhur Rizki Nur Alfahrezi](https://www.linkedin.com/in/fatikhur-rizki)**
 - 🎓 Informatics Graduate from **Universitas Peradaban** with a strong focus on **IT Infrastructure**, **Network Administration**, and **IT Support**.
 - 🏢 IT Support at **Erhanesia Digima Mukitama (Erdigma)** - present
 - 💼 Former **IT Support Intern** at **CV Saung IT Bumiayu** & **Universitas Muhammadiyah Purwokerto (UMP)**.
