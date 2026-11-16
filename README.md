@@ -10,6 +10,7 @@
 - 🎓 Informatics Graduate from **Universitas Peradaban** with a strong focus on **IT Infrastructure**, **Network Administration**, and **IT Support**.
 - 🏢 IT Support at **Erhanesia Digima Mukitama (Erdigma)** - present
 - 💼 Former **IT Support Intern** at **CV Saung IT Bumiayu** & **Universitas Muhammadiyah Purwokerto (UMP)**.
+- 📖 Former MSIB Batch 5 **Data & Software Engineer** at **RevoU** and MSIB batch 6 **Cyber Security Blue Team** at Metrodata Academy.
 - 🛡️ Certified in **Certified Network Defender (CND)** & **Certified Incident Handler (ECIH)** by **EC-Council**.
 - 🌐 Certified in **Cyber Blue Team (SOC Metrodata)**, **Google IT Support**, & **Junior Network Administrator (PNC)**.
 - 🌱 Currently exploring and developing with **Laravel, Python, Linux & Network Security**.
