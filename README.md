@@ -13,7 +13,7 @@
 - 📖 Former MSIB Program Batch 5 **Data & Software Engineer** at **RevoU** and MSIB batch 6 **Cyber Security Blue Team** at Metrodata Academy.
 - 🛡️ Certified in **Certified Network Defender (CND)** & **Certified Incident Handler (ECIH)** by **EC-Council**.
 - 🌐 Certified in **Cyber Blue Team (SOC Metrodata)**, **Google IT Support**, & **Junior Network Administrator (PNC)**.
-- 🌱 Currently exploring and developing with **PHP Laravel, Python, AI, Linux, internet Network & Network Security**.
+- 🌱 Currently exploring and developing with **PHP Laravel, Python, Artificial Intelligence (AI), Linux, internet Network & Network Security**.
 
 Nice to meet you !
 <br/>
