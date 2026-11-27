@@ -15,7 +15,7 @@
 - 🌐 Certified in **Cyber Blue Team (SOC Metrodata)**, **Google IT Support**, & **Junior Network Administrator (PNC)**.
 - 🌱 Currently exploring and developing with **PHP Laravel, Python, Artificial Intelligence (AI), Linux, internet Network & Network Security**.
 
-Nice to meet you !
+Nice to meet you guys !
 <br/>
 <br/>
 
